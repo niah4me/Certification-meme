@@ -1,0 +1,22 @@
+You are designing a certificate template in HTML and CSS (see example for ideas). The idea is that website visitors may fill in their (or a friends…) name and choose from a list of what that individual is certified in. That certification can be anything silly or humorous that is within the bounds of safe for work. So not vulgar, sexually explicit, or target protected classes (like religion, sexuality, gender identity… you get the idea). Clear your ideas with your teacher.
+
+Your certificate needs to include:
+A logo and other visuals that compose a compelling certificate design (HTML, CSS)
+At least 3 different certification options.
+The date the certificate is generated (current date, using JavaScript)
+Who the certificate is issued by (dynamic based on certification)
+The name of the recipient (dynamic, from form)
+The details of the certification (dynamic from list)
+A “print” media query to style the certificate for 8 ½” x 11” landscape oriented paper.
+
+Start by designing your certificate in Figma. Then design the text of each certification as copies of that design in Figma. When programming, your list of certifications should be built from a JavaScript object that includes title, description, and issuer as properties at minimum. Colors, fonts, and other CSS properties could also be defined in your object to alter the appearance of each certification.
+
+Extra credit will be awarded for winners in the following categories:
+
+Best Certificate Design
+Most “Dynamic” (thematically appropriate design changes for each certification)
+Student Choice Award
+
+What do you need to learn to complete this exercise?
+Start by creating a list of terms you don’t know from the project description above.
+Add things you discover you don’t know to this list as you work
