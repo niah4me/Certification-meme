@@ -1,8 +1,14 @@
-body {
+.body1 {
      background: linear-gradient( to bottom, #FFFFFF,  #3A3A3A, #000000 ); /* black to white gradient*/
 background-repeat: no-repeat;
     } 
     /*the words in the cerfication*/
+    .irish-grover-regular {
+        font-family: "Irish Grover", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
 .Certifications {
     color: #000000;
     text-align: center;
@@ -14,7 +20,7 @@ background-repeat: no-repeat;
     text-align: center;
     margin-bottom: 10%;
 }
-.this-certification{
+.this-certification{  
     color: #FFFFFF;
     text-align: center;
 }
@@ -32,7 +38,8 @@ background-repeat: no-repeat;
 .other-signiture{
     color: #FFFFFF;
    padding-left: 72%;
-   margin-top: -5%;
+   margin-top: 1%;
+   margin-bottom: 3%;
     text-align: right;
     display: inline-block;
 }
@@ -54,5 +61,139 @@ background-repeat: no-repeat;
     color: aquamarine;
     width: 20%;
     margin-left: 66%;
-    margin-top: -4%;
+    margin-top: -6%;
 }
+/*the background for the second certification*/
+.body2{
+    background-image: linear-gradient(#FF0707, #CF245A, #9D469B, #4C00FF);
+background-repeat: no-repeat;
+
+}
+    /*the words in the cerfication*/
+    .Certifications1 {
+        color: #000000;
+        text-align: center;
+        margin-bottom: 8%;
+    }
+    
+    .Congradulations1{
+        color: #000000;
+        text-align: center;
+        margin-bottom: 8%;
+    }
+    .this-certification1{  
+        color: #FFFFFF;
+        text-align: center;
+        margin-bottom: 8%;
+    }
+    .your-name1{
+        color: #FFFFFF;
+        text-align: center;
+    }
+    .your-signuture1{ 
+        color: #FFFFFF;
+        text-align: left;
+     padding-left: 28%;
+     display: inline-block;
+     margin-bottom: 3%;
+     
+    }
+    .other-signiture1{
+        color: #FFFFFF;
+       padding-left: 73%;
+       margin-top: 1%;
+       margin-bottom: 3%;
+        text-align: right;
+        display: inline-block;
+    }
+    /* the lines for the names*/
+    .your-name-line1{
+        width: 59%;
+        margin-left: 22%;
+        margin-bottom: 10%;
+    }
+    .Signuture1{
+       display: inline-block;
+    }
+    .your-signuture-line1{
+        color: aquamarine;
+        width:20%;
+        margin-left: 20%;
+        margin-top: -2%;
+    }
+    .other-signiture-line1{ 
+        color: aquamarine;
+        width: 20%;
+        margin-left: 66%;
+        margin-top: -5.5%;
+    }
+    .footer1{
+        margin: 1.5%;
+    }
+/*the background for the second certification*/
+.body3{
+    background-image: linear-gradient(#37148A, #B099DA, #8C75B8, #69547C, #413648, #000000);
+background-repeat: no-repeat;
+
+}
+    /*the words in the cerfication*/
+    .Certifications2 {
+        color: #000000;
+        text-align: center;
+        margin-bottom: 8%;
+    }
+    
+    .Congradulations2{
+        color: #000000;
+        text-align: center;
+        margin-bottom: 8%;
+    }
+    .this-certification2{  
+        color: #FFFFFF;
+        text-align: center;
+        margin-bottom: 8%;
+    }
+    .your-name2{
+        color: #FFFFFF;
+        text-align: center;
+    }
+    .your-signuture2{ 
+        color: #FFFFFF;
+        text-align: left;
+     padding-left: 28%;
+     display: inline-block;
+     margin-bottom: 3%;
+     
+    }
+    .other-signiture2{
+        color: #FFFFFF;
+       padding-left: 73%;
+       margin-top: 1%;
+       margin-bottom: 3%;
+        text-align: right;
+        display: inline-block;
+    }
+    /* the lines for the names*/
+    .your-name-line2{
+        width: 59%;
+        margin-left: 22%;
+        margin-bottom: 10%;
+    }
+    .Signuture2{
+       display: inline-block;
+    }
+    .your-signuture-line2{
+        color: aquamarine;
+        width:20%;
+        margin-left: 20%;
+        margin-top: -2%;
+    }
+    .other-signiture-line2{ 
+        color: aquamarine;
+        width: 20%;
+        margin-left: 66%;
+        margin-top: -5.5%;
+    }
+    .footer2{
+        margin: 1.5%;
+    }
