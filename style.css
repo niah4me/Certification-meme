@@ -85,6 +85,9 @@ background-repeat: no-repeat;
     .footer{
         margin: 1.5%;
     }
+    .footeri{
+       margin-left: 95%;
+    }
 /*the background for the second certification*/
 .body2{
     background-image: linear-gradient(#FF0707, #CF245A, #9D469B, #4C00FF);
@@ -129,16 +132,16 @@ background-repeat: no-repeat;
     .your-signuture1{ 
         color: #FFFFFF;
         text-align: left;
-     padding-left: 28%;
+     padding-left: -7%;
      display: inline-block;
-     margin-bottom: 3%;
+     margin-bottom: -4%;
      
     }
     .other-signiture1{
         color: #FFFFFF;
-       padding-left: 73%;
+       padding-left: 115%;
        margin-top: 1%;
-       margin-bottom: 3%;
+       margin-bottom: 16%;
         text-align: right;
         display: inline-block;
     }
@@ -153,18 +156,18 @@ background-repeat: no-repeat;
     }
     .your-signuture-line1{
         color: aquamarine;
-        width:20%;
-        margin-left: 20%;
+        width:50%;
+        margin-left: -16%;
         margin-top: -2%;
     }
     .other-signiture-line1{ 
         color: aquamarine;
-        width: 20%;
-        margin-left: 66%;
-        margin-top: -5.5%;
+        width: 47%;
+        margin-left: 95%;
+        margin-top: -9.5%;
     }
     .footer1{
-        margin: 1.5%;
+        margin-top: -10%;
     }
 /*the background for the second certification*/
 .body3{
@@ -246,7 +249,7 @@ background-repeat: no-repeat;
         margin-top: -5.5%;
     }
     .footer2{
-        margin: 1.5%;
+        margin-top: 0.5%;
     }
     /* into to home page */
     .homecer{
@@ -287,7 +290,6 @@ background-repeat: no-repeat;
         fill: none;
         background: transparent;
         border: none;
-        border-bottom: 1px solid grey;
         font-size: 18px;
         margin-bottom: 9px;
         margin-left: 10%;
@@ -297,8 +299,43 @@ background-repeat: no-repeat;
         fill: none;
         background: transparent;
         border: none;
-        border-bottom: 1px solid grey;
         font-size: 18px;
-        margin-bottom: 50px;
+        margin-bottom: 22px;
         margin-left: 20%;
+    }
+    .form-control2 {
+        width: 600px;
+        fill: none;
+        background: transparent;
+        border: none;
+        font-size: 18px;
+        margin-bottom: 7px;
+        margin-left: -4%;
+    }
+    .form-control21 {
+        width: 600px;
+        fill: none;
+        background: transparent;
+        border: none;
+        font-size: 18px;
+        margin-bottom: 9px;
+        margin-left: 38%;
+    }
+    .form-control3 {
+        width: 600px;
+        fill: none;
+        background: transparent;
+        border: none;
+        font-size: 18px;
+        margin-bottom: 9px;
+        margin-left: 25%;
+    }
+    .form-control31 {
+        width: 600px;
+        fill: none;
+        background: transparent;
+        border: none;
+        font-size: 18px;
+        margin-bottom: 33px;
+        margin-left: 25%;
     }
