@@ -202,7 +202,8 @@ background-repeat: no-repeat;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
-        width: 100%;
+        width: 89%;
+        bottom: -60%;
       }
     .Certifications2 {
         color: #FFFFFF;
@@ -268,7 +269,7 @@ background-repeat: no-repeat;
         margin-top: -5.5%;
     }
     .footer2{
-        margin-top: 0.5%;
+        margin-top: -6%;
     }
     /* into to home page */
     .homecer{
